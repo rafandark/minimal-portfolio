@@ -32,7 +32,7 @@ const page = () => {
         <div className="">
 
         </div>
-        <div className='w-1/2 flex flex-col  justify-center items-center sm:self-start  md:pt-20 md:w-[70vw] lg:text-center'>
+        <div className='w-1/2 flex flex-col  justify-center items-center sm:self-start  md:pt-20 md:w-[75vw] sm:h-full sm:-ml-12 lg:text-center'>
           <AnimatedText className='text-left xl:!text-6xl  md:!text-5xl sm:!text-3xl'
             text="Crafting digital experiences with code and creativity!" />
 

@@ -2,13 +2,10 @@
 import React from 'react'
 import Cursor from './component/Cursor'
 import { motion } from 'framer-motion'
-import Transitioneffect from './component/Transitioneffect'
 import Hireme from './component/Hireme'
 import dynamic from 'next/dynamic'
 import AnimatedText from './component/AnimatedText'
 import Head from 'next/head'
-import SplineC from './component/SplineC'
-import Layout from './component/Layout'
 
 
 
